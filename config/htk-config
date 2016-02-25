@@ -1,0 +1,20 @@
+#kafka topic 
+topic=dip-test
+
+#hadoop core-site.xml 文件路径
+coreSitePath=/Users/fpschina/Desktop/config/core-site.xml
+
+#hadoop hdfs-site.xml 文件路径
+hdfsSitePath=/Users/fpschina/Desktop/config/hdfs-site.xml
+
+#hadoop mapred-site.xml 路径
+mapredSitePath=/Users/fpschina/Desktop/config/mapred-site.xml
+
+#hadoop yarn-site.xml 路径
+yarnSitePath=/Users/fpschina/Desktop/config/yarn-site.xml
+
+#读写的线程数
+threadNum=10
+
+#kafka 配置文件路径
+kafkaProperties=/Users/fpschina/Desktop/config/kafkaProperties

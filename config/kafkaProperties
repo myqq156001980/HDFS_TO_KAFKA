@@ -1,0 +1,4 @@
+bootstrap.servers=10.13.56.52:9092
+acks=all
+key.serializer=org.apache.kafka.common.serialization.StringSerializer
+value.serializer=org.apache.kafka.common.serialization.StringSerializer
